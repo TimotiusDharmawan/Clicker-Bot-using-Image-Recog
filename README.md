@@ -8,3 +8,7 @@ The steps:
 4. Iterate to resize the screen image. This was done in case the size of template and screen images did not match.
 5. Use <i>CV2.matchTemplate</i> to match the screen and template images. If found, it would return the coordinates of said template image in the screen image.
 6. Using the coordinates, randomized the clicking coordinates within the template image's coordinates using Gaussian Distribution.
+
+
+<b>DISCLAIMER</b>
+This project did not succeed to click on the emulator. The problem was most likely that clicking through program was not recognized as the emulator was running different OS.
