@@ -1,0 +1,3 @@
+gray scale : 0.19981079999999998 secs
+edge : 0.21501089999999998 secs
+grayscale & edge : 0.2110981 secs
