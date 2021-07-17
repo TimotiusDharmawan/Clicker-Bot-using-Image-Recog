@@ -10,5 +10,8 @@ The steps:
 6. Using the coordinates, randomized the clicking coordinates within the template image's coordinates using Gaussian Distribution.
 
 
-<b>DISCLAIMER</b>
+<b>DISCLAIMER</b><br>
 This project did not succeed to click on the emulator. The problem was most likely that clicking through program was not recognized as the emulator was running different OS.
+
+This project was part of the research paper below.
+https://doi.org/10.1016/j.procs.2021.01.045
